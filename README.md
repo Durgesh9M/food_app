@@ -1,7 +1,6 @@
 # food_task
 
-A new Flutter project.
-
+This app uses API to fetch data and shows you the best recipe of the food.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
